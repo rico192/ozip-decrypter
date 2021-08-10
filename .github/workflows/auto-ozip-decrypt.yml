@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_ZIP_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p
+  FIRMWARE_LINK: https://assorted.downloads.oppo.com/firmware/CPH1931/CPH1931EX_11_OTA_1760_all_654R1z3D5vc6.ozip
+  FIRMWARE_NAME: CPH1931EX_11_OTA_1760_all_654R1z3D5vc6.ozip
+  FIRMWARE_ZIP_NAME: CPH1931EX_11_OTA_1760_all_654R1z3D5vc6.zip
   TZ: Asia/Kolkata
 
 jobs:
